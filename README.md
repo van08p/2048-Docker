@@ -1,1 +1,1 @@
-This is simple 2048 game using Dockerfile.
+This is a simple 2048 game using Docker.
